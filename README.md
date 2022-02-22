@@ -25,10 +25,12 @@ Different types of inputs
 Changes in the main configuration of the project
 Changes of scenes and images
 
-###Changes in The match version 1.1
+### Changes in The match version 1.1
 
 Uploaded Image of Bicho talking with the coach before the match
+
 Uploaded Image of Bicho shooting the ball
+
 Uploaded Image of Bicho celebrating champions
 
 ### Bibliography / Resources
